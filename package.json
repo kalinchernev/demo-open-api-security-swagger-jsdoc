@@ -1,0 +1,16 @@
+{
+  "name": "secured-api",
+  "version": "1.0.0",
+  "description": "Demo security with OpenAPI specification and swagger-jsdoc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kalin Chernev",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "4.16.4",
+    "swagger-jsdoc": "3.2.4",
+    "swagger-ui-express": "4.0.1"
+  }
+}
